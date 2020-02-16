@@ -31,3 +31,11 @@
    ```
 1. My experience is some projects from courses, tasks at codewars, and my own freelance project -
 some web application, which helps to get data from vk.com.
+
+1. Education:
+   * Incomplete higher education BSUIR, faculty of information technologies and control. 
+   * CSS/JavaScript: GoIt, RS School.
+   * React/Redux: React - The Complete Guide (incl Hooks, React Router, Redux) - udemy.
+   * Streamline english courses.
+   
+1. I have intermediate English level, my last practice was studying React course in English.
