@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+}
+
+main {
+  max-width: 1024px;
+  margin: 10px auto;
+
+  border: 1px solid lightgrey;
+}
+
+img {
+  float: right;
+  width: 150px;
+  height: 225px;
+  margin: 10px;
+}
+
+li {
+  margin: 20px;
+}
+
+ul li {
+  margin: 5px;
+}

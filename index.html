@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="initial-scale=1.0, width=device-width">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Resume</title>
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+<main>
+  <h1>Junior Developer Resume</h1>
+  <img src="Assets/avatar.jpeg" alt="photo">
+  <ol>
+    <li>Yury Kolodich</li>
+    <li>
+      Contact Info:
+      <ul>
+        <li>Phone: +375 29 8521702</li>
+        <li>Email: venomen@tut.by</li>
+      </ul>
+    </li>
+    <li>
+      Summary: I'm actively learning front-end development. My current goal is to learn some
+      modern technologies and developing techniques. I'm dependable, detail oriented,
+      ambitious and optimistic person. My aim for the next few years is to become strong senior
+      developer.
+    </li>
+    <li>
+      My skills:
+      <ul>
+        <li>CSS + HTML</li>
+        <li>JavaScript ES5 + ES6</li>
+        <li>React + Redux</li>
+        <li>Git</li>
+        <li>Photoshop</li>
+      </ul>
+    </li>
+    <li>
+      My last code example: <br>
+      <code>
+        setChangeableField = (value, index) =&gt; { <br>
+        const newState = {...this.state}; <br>
+        newState.users[index].changeableField = true; <br>
+        this.setState(newState); <br>
+        <br>
+        let user = this.state.users[index]; <br>
+        <br>
+        this.setState(copyObj(this.state, copyObj(this.state.users[index], {changeableField: value}))); <br>
+        }; <br>
+      </code>
+    </li>
+    <li>
+      My experience is some projects from courses, tasks at codewars, and my own freelance project -
+      some web application, which helps to get data from vk.com.
+    </li>
+    <li>
+      Education:
+      <ul>
+        <li>Incomplete higher education BSUIR, faculty of information technologies and control.</li>
+        <li>CSS/JavaScript: GoIt, RS School.</li>
+        <li>React/Redux: React - The Complete Guide (incl Hooks, React Router, Redux) - udemy.</li>
+        <li>Streamline english courses.</li>
+      </ul>
+    </li>
+    <li>
+      I have intermediate English level, my last practice was studying React course in English.
+    </li>
+  </ol>
+</main>
+</body>
+</html>
