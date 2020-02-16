@@ -1,1 +1,1 @@
-https://venoboy.github.io/rsschool-cv/
+https://venoboy.github.io/rsschool-cv/cv
